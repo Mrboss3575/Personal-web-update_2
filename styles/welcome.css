@@ -158,6 +158,37 @@ a {
 .map:hover {
   box-shadow: 0 0 20px cyan;
 }
-.map::after {
-  background-color: #3498db;
+.edulevel {
+  background-color: rgb(12, 7, 7);
+  color: white;
+  border-radius: 20px;
+  padding: 4px;
+  margin: 20px;
+}
+.edulevel:hover {
+  box-shadow: 0 0 20px cyan;
+}
+p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.guse {
+  background-color: rgb(12, 7, 7);
+  color: white;
+  border-radius: 20px;
+  padding: 4px;
+  margin: 20px;
+  
+}
+.guse:hover {
+  cursor: pointer;
+  box-shadow:  0 0 20px cyan;
+}
+
+
+
+.social {
+  background-color: black;
+  color: #3498db;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 20mm;
 }
